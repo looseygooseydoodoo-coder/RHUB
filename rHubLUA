@@ -47,6 +47,4 @@ if script_id then
 		Duration = 5
 	})
 
-	-- just load directly, no key system
-	loadUrl("https://api.luarmor.net/files/v4/loaders/" .. script_id .. ".lua")
 end
